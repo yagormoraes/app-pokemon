@@ -1,0 +1,15 @@
+[
+  {
+    "id": "xy1-1",
+    "name": "Venusaur-EX",
+    "imageUrl": "https://images.pokemontcg.io/xy1/1.png",
+    "type": "Grass",
+    "rarity": "Rare Holo EX"
+  },
+  {
+    "id": "xy1-2",
+    "name": "Weedle",
+    "imageUrl": "https://images.pokemontcg.io/xy1/2.png",
+    "type": "Grass"
+  }
+]
